@@ -9,8 +9,8 @@ const Footer = () => {
       <div class="divName">
         <h1 class="name">Gabrielle Oliveira</h1>
         <p class="name">
-          Estagiaria de Desenvolvimento,Estudante de Análise e Desenvolvimento
-          de Sistemas e Aluna reprograma{" "}
+          Estágiaria de Desenvolvimento, Estudante de Análise e Desenvolvimento
+          de Sistemas e Aluna reprograma 💜
         </p>
       </div>
       <ul>
