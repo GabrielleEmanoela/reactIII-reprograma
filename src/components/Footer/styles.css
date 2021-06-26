@@ -1,5 +1,6 @@
 .footer {
-  margin: 2rem;
+  margin: 3rem;
+  margin-top: 40px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -9,7 +10,10 @@
   margin-left: 4rem;
   list-style: none;
 }
-
+.name {
+  color: wheat;
+  font-size: 20px;
+}
 .link {
   color: wheat;
   text-decoration: none;
