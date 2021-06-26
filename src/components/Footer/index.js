@@ -1,5 +1,4 @@
 import React from "react";
-import { Link } from "react-router-dom";
 import img1 from "../../img/in.png";
 import img2 from "../../img/github.png";
 import "./styles.css";
